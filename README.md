@@ -24,12 +24,15 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<a href="https://github.com/serdarbayram01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serdarbayram01&show_icons=true&theme=radical&hide=contribs&locale=tr" />
-</a>
-<a href="https://github.com/serdarbayram01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarbayram01&layout=compact&langs_count=8&theme=radical&locale=tr&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/serdarbayram01">
+    <img src="https://streak-stats.demolab.com/?user=serdarbayram01&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/serdarbayram01?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="Followers" />
+</p>
 
 ---
 
