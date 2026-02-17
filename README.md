@@ -35,9 +35,9 @@
 
 ## 🎓 Certifications
 
-[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/340x340/0e2147bd-fb1c-4ffa-9473-1911b507c26a-aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/0e2147bd-fb1c-4ffa-9473-1911b507c26a/public_url)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/7c4e9d69-3fd2-4822-92c5-d651c99fae1c-aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/7c4e9d69-3fd2-4822-92c5-d651c99fae1c/public_url)
-[![MCSA: Windows Server 2012](https://images.credly.com/size/340x340/e1ead9aa-6016-4d52-b87c-b2d305e9c94b-mcsa-windows-server-2012-certified-2017.png)](https://www.credly.com/badges/e1ead9aa-6016-4d52-b87c-b2d305e9c94b/public_url)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/7c4e9d69-3fd2-4822-92c5-d651c99fae1c/public_url)
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/0e2147bd-fb1c-4ffa-9473-1911b507c26a/public_url)
+[![MCSA: Windows Server 2012](https://images.credly.com/size/680x680/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png)](https://www.credly.com/badges/e1ead9aa-6016-4d52-b87c-b2d305e9c94b/public_url)
 
 **2x AWS Certified** | DevOps Engineer Professional & Solutions Architect Associate
 
@@ -60,9 +60,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@serdarbayram7186)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serdarbayram01)
 [![Docker Hub](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/serdarbayram)
-
-- 🌐 **Website:** [serdarbayram.net](https://www.serdarbayram.net/)
-- 📧 **Email:** serdarbayram01@gmail.com
+[![Website](https://img.shields.io/badge/Website-serdarbayram.net-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.serdarbayram.net/)
+[![Email](https://img.shields.io/badge/Email-serdarbayram01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serdarbayram01@gmail.com)
 
 ---
 
